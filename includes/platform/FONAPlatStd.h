@@ -41,7 +41,7 @@
 #include <avr/pgmspace.h>
 #elif (defined(ESP8266))
 #include <pgmspace.h>
-#endif	 #endif
+#endif
 
 // DebugStream	sets the Stream output to use
 // for debug (only applies when ADAFRUIT_FONA_DEBUG
